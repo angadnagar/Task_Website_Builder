@@ -1,0 +1,46 @@
+.innerContainer{
+    margin: 20px 80px;
+}
+
+/* NAVBAR */
+/* 
+@media (max-width: 1024px) {
+   .NavContainer{
+    margin-left:70px;
+    margin-right: 20px;
+   }
+
+  
+  }
+  
+  @media (max-width: 768px) {
+    .NavContainer{
+        padding: 10px;
+        width: fit-content;
+
+    }
+
+  .container{
+    gap: 40px;
+  }
+
+  .NavInput{
+    margin-left: 50px;
+  }
+
+  .NavLinks{
+    gap: 40px;
+  }
+
+
+  } */
+  
+  
+  /* @media (max-width: 375px) {
+    
+  }
+  
+  @media (max-width: 325px) {
+    
+  } */
+
